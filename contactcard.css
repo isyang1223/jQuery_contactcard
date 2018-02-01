@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#description{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    display: block;
+}
+#first_name{
+    margin: 20px;
+}
+#last_name{
+    margin: 20px;
+}
+#labeld{
+    display: block;
+}
+#left{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+#right{
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+p{
+    display: none;
+}
+#card{
+    border-style: solid;
+    height: 50px;
+    margin: 5px;
+}
